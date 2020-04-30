@@ -28,6 +28,10 @@ for (genotype in c("A_Genomes", "B_Genomes", "C_Genomes")) {
 }
 ```
 
+![Genotype A](https://raw.githubusercontent.com/kojix2/HBV_TREE/master/assets/A_Genomes.png)
+![Genotype B](https://raw.githubusercontent.com/kojix2/HBV_TREE/master/assets/B_Genomes.png)
+![Genotype C](https://raw.githubusercontent.com/kojix2/HBV_TREE/master/assets/C_Genomes.png)
+
 ## References
 
 * [R Bioinformatics Cookbook](https://github.com/PacktPublishing/R-Bioinformatics-Cookbook) Chapter4
